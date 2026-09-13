@@ -1,0 +1,2 @@
+# Only needed for the Jupyter interface; the script uses Python standard library.
+jupyterlab>=4,<5
